@@ -1,6 +1,6 @@
 # GerenciamentoEmprestimos
 
-Sistema de Gestão de Itens
+##Sistema de Gestão de Itens
 
 Este projeto é um sistema de gestão de itens, desenvolvido em Java com interface gráfica (Java Swing) e banco de dados MySQL. O sistema permite o cadastro de itens e usuários, controle de empréstimos e devoluções, além de consultas e geração de relatórios.
 
@@ -64,7 +64,7 @@ Abra o projeto no seu ambiente de desenvolvimento.
 Configure as dependências do MySQL Connector.
 Compile e execute a aplicação.
 
-## Demonstração em Vídeo
+### Demonstração em Vídeo
 
 Assista a demonstração do sistema no YouTube:  
 (https://www.youtube.com/watch?v=mOn4Fn65g1o)  
