@@ -51,19 +51,19 @@ Biblioteca MySQL Connector for Java para conectar ao banco de dados.
 
 Configuração do Banco de Dados
 Crie um banco de dados no MySQL:
-CREATE DATABASE sistema_gestao_itens;
+CREATE DATABASE GerenciamentoEmprestimos;
 
-Execute os scripts de criação das tabelas fornecidos no arquivo database_schema.sql.
+Execute os scripts de criação das tabelas fornecidos no arquivo Banco.sql.
 
 Atualize as configurações de conexão no código (host, usuário, senha, nome do banco).
 
 Executando o Projeto
 Clone este repositório:
-git clone <url-do-repositorio>
+git clone <[url-do-repositorio](https://github.com/pireszx/GerenciamentoEmprestimos.git)>
 Abra o projeto no seu ambiente de desenvolvimento.
 Configure as dependências do MySQL Connector.
 Compile e execute a aplicação.
 
 Desenvolvido por
 
-[Bernardo Paz, João Vitor Ritter, Marcelo Moro, Matheus Sansonowicz, Pedro Pires & Wendel Nunes]
+Bernardo Paz, João Vitor Ritter, Marcelo Moro, Matheus Sansonowicz, Pedro Pires & Wendel Nunes
