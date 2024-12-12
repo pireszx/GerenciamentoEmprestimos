@@ -7,30 +7,30 @@ Este projeto é um sistema de gestão de itens, desenvolvido em Java com interfa
 ### Funcionalidades
 1. Cadastro de Itens
 Inserir informações como:
-Nome do item
-Categoria
+Nome do item,
+Categoria,
 Estado (disponível ou emprestado)
 
 2. Cadastro de Usuários
 Registrar dados dos usuários, incluindo:
-Nome
-Matrícula
+Nome,
+Matrícula,
 Contato
 
 3. Registro de Empréstimos e Devoluções
 Controlar o status dos itens, com:
-Data e hora de empréstimo
-Data e hora de devolução
+Data e hora de empréstimo,
+Data e hora de devolução.
 Nesta tela, é possível realizar o empréstimo e devolução de itens.
 
 4. Consulta de Histórico
 Exibir o histórico de empréstimos e devoluções:
-Por item
+Por item,
 Por usuário
 
 5. Relatórios
 Gerar relatórios, incluindo:
-Itens mais emprestados
+Itens mais emprestados,
 Itens com devoluções atrasadas
 
 ### Requisitos Técnicos<br>
